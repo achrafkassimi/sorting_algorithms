@@ -2,8 +2,8 @@
 
 /**
  * bubble_sort - trie les éléments du tableau de la plus petite valeur à la plus grande valeur
- * @array : Le tableau
- * @size : La taille du tableau
+ * @arr : Le tableau
+ * @n : La taille du tableau
  */
 void bubble_sort(int *arr, size_t n)
 {
